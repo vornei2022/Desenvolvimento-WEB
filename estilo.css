@@ -1,0 +1,47 @@
+body{
+    background-image: url("Imagens/painel-de-festa-futebol-2-painel-futebol.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+a{
+    background-color: blanchedalmond;
+    padding: 20px;
+    border: mediumblue;
+    
+}
+
+ul,ol{
+    columns: 2;
+    color: white;
+    font-family: fantasy;
+
+}
+img{
+    text-align: center;
+}
+
+section{
+    text-align: center;
+}
+td{
+    border: 5px solid beige;
+    margin: auto;
+    font-family: initial;
+}
+th{ 
+    color: white;
+} 
+footer{
+    color: aqua;
+}  
+table{ 
+    border-collapse: collapse;
+
+}
+tbody > tr:nth-child(1n){   
+     background-color: blanchedalmond;
+
+
+
+}
